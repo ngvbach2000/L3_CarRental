@@ -1,5 +1,12 @@
 # L3_CarRental(Java Web with MVC)
 
+## Program Specifications
+Car rental is a service online. In the store there are many types of cars, users can choose to rent one or many cars
+for a certain period of time. In addition, users can rent more than 1 car of the same type or different type. You must
+use Filter as Controller and follow MVC2 model.
+
+## Features:
+This system contains the following functions:
 - Function 1: Login - 50 Points
 o In order to shopping, an authentication is required.
 o If the user has not authenticated, the system redirects to the login page.
