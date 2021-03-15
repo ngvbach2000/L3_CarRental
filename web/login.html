@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Rental Car</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+    </head>
+    <body>
+        <a href="/L3_CarRental/"><h1>Car Rental</h1></a>
+        
+        <h2>Login</h2>
+        
+        <form action="login" method="POST">
+            Email: <input type="text" name="txtEmail" value="" /><br/>
+            Password: <input type="password" name="txtPassword" value="" /><br/>
+            <div class="g-recaptcha"
+                 data-sitekey="6Lcu4WgaAAAAAFauT3SRfwErWmySHu2079AGXSgs"></div>
+            <input type="submit" value="Submit" /><br/>
+        </form>
+        <a href="registerPage">Click here to register</a><br/>
+        <a href="/L3_CarRental/">Go to shopping</a>
+    </body>
+</html>
