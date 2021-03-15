@@ -1,4 +1,5 @@
 #L3_CarRental(Java Web ưith MVC)
+
 Function 1: Login - 50 Points
 o In order to shopping, an authentication is required.
 o If the user has not authenticated, the system redirects to the login page.
