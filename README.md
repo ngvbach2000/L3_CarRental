@@ -44,3 +44,9 @@ o Support delete function to delete the order (update the status of order to ina
 - Function 6: Feedback on the quality of car service - 50 points (Extra)
 o The user sends a feedback to the quality of the car he has rented.
 o Rating on a scale of: from 0 to 10.
+
+## Connect me via 
+1. [Facebook](https://fb.me/ngvbach2000)
+2. [Email](mailto:ngvbach2000@gmail.com)
+
+#### © 2021 by @ngvbach2000:cow:
